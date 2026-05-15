@@ -1,6 +1,15 @@
 # ZeroKnight
 Application Mind Game
 
+
+
+
+https://github.com/user-attachments/assets/b863688b-c333-47f0-bd21-a063f390bd76
+
+
+
+
+
 <img width="501" height="790" alt="hum" src="https://github.com/user-attachments/assets/b1ae7712-744c-47de-87e9-3306683afadd" />
 <img width="496" height="790" alt="quic" src="https://github.com/user-attachments/assets/36113274-6aa9-4e71-a23a-73323e89fcad" />
 <img width="510" height="772" alt="puzzel" src="https://github.com/user-attachments/assets/ea90efbb-96e0-4e37-91b1-52d6314e24e2" />
